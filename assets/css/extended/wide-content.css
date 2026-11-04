@@ -1,0 +1,8 @@
+:root {
+  --article-width: 1080px;
+}
+
+/* Keep list/search pages compact, but give long Markdown articles more room. */
+.main:has(> .post-single) {
+  max-width: calc(var(--article-width) + var(--gap) * 2);
+}

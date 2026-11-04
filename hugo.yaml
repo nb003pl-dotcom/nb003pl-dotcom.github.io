@@ -1,0 +1,70 @@
+baseURL: "/"
+locale: zh-CN
+defaultContentLanguage: zh
+title: nb003pl
+theme: PaperMod
+enableRobotsTXT: true
+hasCJKLanguage: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+pagination:
+  pagerSize: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  description: 量化金融、时间序列、证据支撑预测与决策模型研究笔记
+  author: Sutton
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowWordCount: true
+  ShowToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  comments: true
+  homeInfoParams:
+    Title: AI笔记
+    Content: AI DeepResearch, Lightly Chewed. Attention is all we need.
+  giscus:
+    repo: nb003pl-dotcom/nb003pl-dotcom.github.io
+    repoId: ""
+    category: Announcements
+    categoryId: ""
+    mapping: pathname
+    strict: "0"
+    reactionsEnabled: "1"
+    emitMetadata: "0"
+    inputPosition: bottom
+    theme: preferred_color_scheme
+    lang: zh-CN
+    loading: lazy
+
+menu:
+  main:
+    - identifier: posts
+      name: 文章
+      url: /posts/
+      weight: 10
+    - identifier: archives
+      name: 归档
+      url: /archives/
+      weight: 20
+    - identifier: search
+      name: 搜索
+      url: /search/
+      weight: 30
+
