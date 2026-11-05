@@ -1,3 +1,11 @@
+---
+title: "AI4AI（AI for AI Research）综述：用 AI 自动化 AI 研究"
+date: 2026-11-04T09:30:00+08:00
+draft: false
+tags: [AI4AI, AI科研, 科研智能体, 自动化研究]
+comments: true
+---
+
 # AI4AI（AI for AI Research）综述：用 AI 自动化 AI 研究
 
 *生成日期：2026-11-04 ｜ 来源：40+（arXiv / 官方博客 / Nature / 主流科技媒体）｜ 置信度：中高（关键数字均经一手来源核实，未核实项显式标注）*

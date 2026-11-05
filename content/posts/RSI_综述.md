@@ -1,3 +1,11 @@
+---
+title: "递归自我改进（Recursive Self-Improvement, RSI）综述"
+date: 2026-11-04T09:25:00+08:00
+draft: false
+tags: [RSI, 递归自我改进, AI安全, 智能爆炸]
+comments: true
+---
+
 # 递归自我改进（Recursive Self-Improvement, RSI）综述
 
 *生成日期：2026-11-04（v2，增补 2026 年工作约 30 篇）｜ 来源：100+（arXiv / 官方博客 / Nature / 实验室安全框架原文 / 权威媒体）｜ 置信度：中高（关键数字与政策阈值经一手来源核实；未核实项显式标注）*
