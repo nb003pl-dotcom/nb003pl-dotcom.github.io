@@ -22,8 +22,21 @@ minify:
   disableXML: true
   minifyOutput: true
 
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+            - ['\[', '\]']
+            - ['$$', '$$']
+          inline:
+            - ['\(', '\)']
+        enable: true
+
 params:
   env: production
+  math: true
   description: 量化金融、时间序列、证据支撑预测与决策模型研究笔记
   author: Sutton
   defaultTheme: auto
