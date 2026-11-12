@@ -20,7 +20,7 @@ EPSBench 将盈利预测拆成“证据检索、driver 估计、会计计算和�
 
 ## Slide 1｜EPSBench：面向盈利预测的 LLM Agent 基准
 
-![Slide 1](learning_report_slides/slide-01.png)
+![Slide 1](/learning_report_slides/slide-01.png)
 
 ### 注释
 
@@ -32,7 +32,7 @@ EPSBench 将盈利预测拆成“证据检索、driver 估计、会计计算和�
 
 ## Slide 2｜盈利预测考验“证据到数字”的完整链条
 
-![Slide 2](learning_report_slides/slide-02.png)
+![Slide 2](/learning_report_slides/slide-02.png)
 
 ### 注释
 
@@ -45,7 +45,7 @@ EPSBench 将盈利预测拆成“证据检索、driver 估计、会计计算和�
 
 ## Slide 3｜EPSBench 将盈利预测变成可审计的结构化任务
 
-![Slide 3](learning_report_slides/slide-03.png)
+![Slide 3](/learning_report_slides/slide-03.png)
 
 ### 注释
 
@@ -58,7 +58,7 @@ EPSBench 将盈利预测拆成“证据检索、driver 估计、会计计算和�
 
 ## Slide 4｜EPSBench workflow
 
-![Slide 4](learning_report_slides/slide-04.png)
+![Slide 4](/learning_report_slides/slide-04.png)
 
 ### 注释
 
@@ -74,7 +74,7 @@ Schema 由三部分组成：Q-4 baseline、允许模型预测的 drivers、固�
 
 ## Slide 5｜最终预测 Prompt 分离证据、计算与输出
 
-![Slide 5](learning_report_slides/slide-05.png)
+![Slide 5](/learning_report_slides/slide-05.png)
 
 ### 注释
 
@@ -89,7 +89,7 @@ Schema 由三部分组成：Q-4 baseline、允许模型预测的 drivers、固�
 
 ## Slide 6｜Company-specific accounting schema
 
-![Slide 6](learning_report_slides/slide-06.png)
+![Slide 6](/learning_report_slides/slide-06.png)
 
 ### 注释
 
@@ -103,7 +103,7 @@ Schema 由三部分组成：Q-4 baseline、允许模型预测的 drivers、固�
 
 ## Slide 7｜MSFT 2026Q3 完整预测案例
 
-![Slide 7](learning_report_slides/slide-07.png)
+![Slide 7](/learning_report_slides/slide-07.png)
 
 ### 注释
 
@@ -151,7 +151,7 @@ Diluted EPS      = 28,680.95 / 7,456 = 3.8467
 
 ## Slide 8｜实验设置
 
-![Slide 8](learning_report_slides/slide-08.png)
+![Slide 8](/learning_report_slides/slide-08.png)
 
 ### 注释
 
@@ -165,7 +165,7 @@ Diluted EPS      = 28,680.95 / 7,456 = 3.8467
 
 ## Slide 9｜模型预测 leakage 风险
 
-![Slide 9](learning_report_slides/slide-09.png)
+![Slide 9](/learning_report_slides/slide-09.png)
 
 ### 注释
 
@@ -180,7 +180,7 @@ Diluted EPS      = 28,680.95 / 7,456 = 3.8467
 
 ## Slide 10｜点预测结果
 
-![Slide 10](learning_report_slides/slide-10.png)
+![Slide 10](/learning_report_slides/slide-10.png)
 
 ### 注释
 
@@ -194,7 +194,7 @@ Diluted EPS      = 28,680.95 / 7,456 = 3.8467
 
 ## Slide 11｜所有模型都低估预测不确定性
 
-![Slide 11](learning_report_slides/slide-11.png)
+![Slide 11](/learning_report_slides/slide-11.png)
 
 ### 注释
 
@@ -208,7 +208,7 @@ Diluted EPS      = 28,680.95 / 7,456 = 3.8467
 
 ## Slide 12｜大幅盈利变化拉开模型差距
 
-![Slide 12](learning_report_slides/slide-12.png)
+![Slide 12](/learning_report_slides/slide-12.png)
 
 ### 注释
 
@@ -222,7 +222,7 @@ Diluted EPS      = 28,680.95 / 7,456 = 3.8467
 
 ## Slide 13｜信息源消融
 
-![Slide 13](learning_report_slides/slide-13.png)
+![Slide 13](/learning_report_slides/slide-13.png)
 
 ### 注释
 
@@ -236,7 +236,7 @@ Diluted EPS      = 28,680.95 / 7,456 = 3.8467
 
 ## Slide 14｜误差来源与 Boeing 案例
 
-![Slide 14](learning_report_slides/slide-14.png)
+![Slide 14](/learning_report_slides/slide-14.png)
 
 ### 注释
 
@@ -251,7 +251,7 @@ Diluted EPS      = 28,680.95 / 7,456 = 3.8467
 
 ## Slide 15｜总结与限制
 
-![Slide 15](learning_report_slides/slide-15.png)
+![Slide 15](/learning_report_slides/slide-15.png)
 
 ### 注释
 
